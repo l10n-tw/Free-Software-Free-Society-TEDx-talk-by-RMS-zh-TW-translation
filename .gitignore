@@ -1,0 +1,4 @@
+# Version Tracking Ignore Rules for Git VCS
+## We don't save videos here
+*.mp4
+*.mkv
